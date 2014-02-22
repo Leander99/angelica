@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlebackgroundcolor">#FFFFFF</color>    
+    <color name="titletextcolor">#0C7A9F</color>
+    <color name="windowbackgroundcolor">#FFFFFF</color>
+        
+    <color name="blue_btn_dark1">#0C7A9F</color>
+    <color name="blue_btn_light1">#3FABCF</color>
+    <color name="blue_btn_dark2">#0C7A9F</color>
+    <color name="blue_btn_light2">#66B5CF</color> 
+    
+    <color name="text_color">#0C7A9F</color>
+    <color name="hint_color">#807FBCCF</color>
+</resources>

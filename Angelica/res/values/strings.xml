@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Angelica</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_angelica_register">Angelica - Register New Account</string>
+    <string name="register_welcome">Welcome</string>
+    <string name="please_register">Please register below</string>
+    <string name="action_register">Register</string>
+
+</resources>
